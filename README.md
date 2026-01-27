@@ -1,1 +1,1 @@
-Bluetooth split keyboard
+<img src="keymap-drawer/wingxsl.svg" >
