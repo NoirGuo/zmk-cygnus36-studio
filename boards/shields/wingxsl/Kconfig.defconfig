@@ -1,17 +1,17 @@
 # Copyright (c) 2022 Duccio Breschi
 # SPDX-License-Identifier: MIT
 
-if SHIELD_CYGNUS_LEFT
+if SHIELD_WINGXSL_LEFT
 
 config ZMK_KEYBOARD_NAME
-    default "cygnus"
+    default "wingxsl"
 
 config ZMK_SPLIT_ROLE_CENTRAL
     default y
 
 endif
 
-if SHIELD_CYGNUS_LEFT || SHIELD_CYGNUS_RIGHT
+if SHIELD_WINGXSL_LEFT || SHIELD_WINGXSL_RIGHT
 
 config ZMK_SPLIT
     default y

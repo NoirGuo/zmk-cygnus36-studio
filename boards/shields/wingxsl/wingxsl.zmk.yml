@@ -1,11 +1,11 @@
 file_format: "1"
-id: cygnus
-name: cygnus
+id: wingxsl
+name: wingxsl
 type: shield
 url: https://github.com/jimmerricks/swoop
-requires: [pro_micro]
+requires: [nice_nano]
 features:
   - keys
 siblings:
-  - cygnus_left
-  - cygnus_right
+  - wingxsl_left
+  - wingxsl_right
